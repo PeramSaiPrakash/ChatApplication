@@ -1,0 +1,17 @@
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\bin\Debug\net6.0-windows\Socket.exe
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\bin\Debug\net6.0-windows\Socket.deps.json
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\bin\Debug\net6.0-windows\Socket.runtimeconfig.json
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\bin\Debug\net6.0-windows\Socket.dll
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\bin\Debug\net6.0-windows\Socket.pdb
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.csproj.AssemblyReference.cache
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.Form1.resources
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.csproj.GenerateResource.cache
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.AssemblyInfoInputs.cache
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.AssemblyInfo.cs
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.csproj.CoreCompileInputs.cache
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.dll
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\refint\Socket.dll
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.pdb
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\Socket.genruntimeconfig.cache
+C:\Users\atthoti.abhilash\source\repos\Socket\Socket\obj\Debug\net6.0-windows\ref\Socket.dll
